@@ -1,6 +1,6 @@
 # Signature Verification and Word Completion using Generative AI
 
-*Author: Wasif Mehboob*
+*Author: Abdul Moiz*
 
 ## 📌 Project Overview
 
